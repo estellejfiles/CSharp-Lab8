@@ -1,0 +1,15 @@
+/workspaces/CSharp-Lab8/Module8Lab/bin/Debug/net10.0/Module8Lab
+/workspaces/CSharp-Lab8/Module8Lab/bin/Debug/net10.0/Module8Lab.deps.json
+/workspaces/CSharp-Lab8/Module8Lab/bin/Debug/net10.0/Module8Lab.runtimeconfig.json
+/workspaces/CSharp-Lab8/Module8Lab/bin/Debug/net10.0/Module8Lab.dll
+/workspaces/CSharp-Lab8/Module8Lab/bin/Debug/net10.0/Module8Lab.pdb
+/workspaces/CSharp-Lab8/Module8Lab/obj/Debug/net10.0/Module8Lab.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CSharp-Lab8/Module8Lab/obj/Debug/net10.0/Module8Lab.AssemblyInfoInputs.cache
+/workspaces/CSharp-Lab8/Module8Lab/obj/Debug/net10.0/Module8Lab.AssemblyInfo.cs
+/workspaces/CSharp-Lab8/Module8Lab/obj/Debug/net10.0/Module8Lab.csproj.CoreCompileInputs.cache
+/workspaces/CSharp-Lab8/Module8Lab/obj/Debug/net10.0/Module8Lab.sourcelink.json
+/workspaces/CSharp-Lab8/Module8Lab/obj/Debug/net10.0/Module8Lab.dll
+/workspaces/CSharp-Lab8/Module8Lab/obj/Debug/net10.0/refint/Module8Lab.dll
+/workspaces/CSharp-Lab8/Module8Lab/obj/Debug/net10.0/Module8Lab.pdb
+/workspaces/CSharp-Lab8/Module8Lab/obj/Debug/net10.0/Module8Lab.genruntimeconfig.cache
+/workspaces/CSharp-Lab8/Module8Lab/obj/Debug/net10.0/ref/Module8Lab.dll
